@@ -12,7 +12,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "46860297e68e6b72a55cbc126d50062b",
+  "VITE_WALLETCONNECT_PROJECT_ID": "",
   "VITE_APP_NAME": "Venus Perp DEX",
   "VITE_APP_DESCRIPTION": "Trade perpetuals on Venus, the top DEX with low fees, deep liquidity, multichain support, high leverage and yield. Use Simple or Pro mode. Secure and non-custodial",
   "VITE_HAS_PRIMARY_LOGO": "true",
